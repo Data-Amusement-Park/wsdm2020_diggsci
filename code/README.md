@@ -10,6 +10,6 @@
 
 Two folders code1 & code2：
 
-1. The training, prediction and final results of the model are integrated under code1；
-2. The code to generate the training set is in the folder code1；
-3. The code to generate the test set is in the folder code2。
+1. The training, prediction and final results of the model are integrated under code1;
+2. The code to generate the training set is in the folder code1;
+3. The code to generate the test set is in the folder code2.
